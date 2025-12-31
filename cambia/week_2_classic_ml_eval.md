@@ -170,7 +170,7 @@ This week focuses on *why* you choose certain models and *how* you evaluate them
 - Of predicted positives, how many are correct
 - Important when false positives are costly
 
-#### Recall
+#### Recall (Sensitivity)
 - Of actual positives, how many were identified
 - Important when false negatives are costly
 
