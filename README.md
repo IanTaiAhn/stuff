@@ -53,3 +53,71 @@ Think more creatively under constraints
 
 I trimmed the fat off my requirements.txt and stitched together only "free" APIs to make it work.
 Fun project overall and you can check out the static frontend website here and the source code here. (backend will definitely be broken unless you personally message me so that I can regenerate a Jina API key for you XD)
+
+1/14/2026:
+
+Companies Workflows:
+
+🏥 Healthcare
+Clinics
+Specialty practices
+Billing companies
+Insurance brokers
+Home health agencies
+
+💰 Finance
+Accounting firms
+Wealth management offices
+Credit unions
+Fintech startups
+Insurance underwriting teams
+
+💻 Tech
+SaaS companies
+DevOps teams
+Customer support teams
+HR/IT internal ops
+Cybersecurity firms
+
+🏢 Professional Services
+Law firms
+Real estate brokerages
+Logistics companies
+Manufacturing
+Construction
+
+Companies with 50–500 employees
+
+* Manual
+* Repetitive
+* Document-heavy
+* Error-prone
+* Compliance-sensitive
+* Time-consuming
+
+### Examples:
+
+#### Healthcare:
+* Prior auth
+* Claims appeals
+* Chart summarization
+* Patient intake
+* Policy lookup
+
+#### Finance:
+* KYC document extraction
+* Compliance updates
+* Fraud review
+* Report generation
+* Audit prep
+
+#### Tech:
+* Internal knowledge search
+* Onboarding
+* Incident response
+* Ticket triage
+* Log summarization
+
+Okay.
+So healthcare sounds like it would be my best bet tbh. Doctors make their own practices and do all of that stuff. It sounds so tedious how they handle it.
+Maybe I do need to learn the jargon to communicate effectively with people like that, and then solve workflow problems within mid-large healthcare companies.
