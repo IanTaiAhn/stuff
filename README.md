@@ -121,3 +121,35 @@ Companies with 50–500 employees
 Okay.
 So healthcare sounds like it would be my best bet tbh. Doctors make their own practices and do all of that stuff. It sounds so tedious how they handle it.
 Maybe I do need to learn the jargon to communicate effectively with people like that, and then solve workflow problems within mid-large healthcare companies.
+
+#### Specialty Clinics (50–300 employees):
+* The Urology Group
+* Midwest Orthopaedics
+* Retina Consultants of America (regional offices)
+* HeartPlace Cardiology
+* OrthoCarolina
+* Digestive Health Associates
+* Women’s Health USA
+* Dermatology Associates of Wisconsin
+* ENT & Allergy Associates
+* Arthritis & Rheumatism Associates
+
+#### Medical Billing & RCM Companies:
+* R1 RCM (regional divisions)
+* Medusind
+* Coronis Health
+* AdvantEdge Healthcare Solutions
+* CareCloud RCM division
+
+#### Home Health & Hospice:
+* Amedisys regional offices
+* LHC Group regional offices
+* AccentCare
+* Enhabit Home Health
+
+These companies are drowning in:
+PDFs
+faxed forms
+insurance rules
+compliance documents
+manual data entry
