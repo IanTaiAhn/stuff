@@ -1,11 +1,11 @@
-Day 1 – Fri Apr 18 — Arrival at Haneda (~2 PM)
+Day 1 – Sat Apr 18 — Arrival at Haneda (~2 PM)
 Land, pass customs (plan ~1–1.5 hr).
 Take Limousine Bus or Keikyu/Monorail → Shibuya/Shinjuku hotel.(Purchase at airport)
 Light evening stroll:
 Shibuya Crossing, Hachiko statue.
 Dinner at Omoide Yokocho (tiny alley izakayas) or Nonbei Yokocho.
 
-Day 2 – Sat Apr 19 — Harajuku + Akihabara
+Day 2 – Sun Apr 19 — Harajuku + Akihabara
 Morning: Harajuku & Omotesando
 Takeshita Street (quirky fashion, crepes, themed cafés).
 Kiddy Land for Ghibli/Pokémon merch.
@@ -13,21 +13,21 @@ Afternoon: Akihabara
 Animate flagship, Radio Kaikan, Super Potato (retro games).
 Optional themed café (e.g., Final Fantasy Eorzea Café).
 
-Day 3 – Sun Apr 20 — Tokyo National Museum + Nakano Broadway?(may change)
+Day 3 – Mon Apr 20 — Tokyo National Museum + Nakano Broadway?(may change)
 Morning: Tokyo National Museum
 Afterward:
 Stroll Inokashira Park and Kichijoji shopping streets.
 Head to Nakano Broadway (Mandarake stores for vintage anime, figures, manga).
 Evening: Dinner in Shinjuku (e.g., Ichiran Ramen or Tokyo Ramen Street).
 
-Day 4 – Mon Apr 21 — Odaiba + Tokyo Sea Life Park(Aquarium)
+Day 4 – Tue Apr 21 — Odaiba + Tokyo Sea Life Park(Aquarium)
 Morning → Afternoon:
 Tokyo Sea Life Park (book timed tickets early).
 DiverCity Tokyo Plaza (life-size Unicorn Gundam + Gundam Base).
 Tokyo Joypolis (indoor SEGA amusement park).
 Evening: Relax seaside or head back for Shinjuku Golden Gai drinks.
 
-Day 5 – Tue Apr 22 — Ikebukuro + Shibuya Shopping
+Day 5 – Wed Apr 22 — Ikebukuro + Shibuya Shopping
 Ikebukuro:
 Sunshine City Mall (Pokémon Center Mega Tokyo, JUMP Shop, Capcom Store).
 Animate Ikebukuro Main Store.
@@ -35,7 +35,7 @@ Afternoon:
 Return to Shibuya or Ginza for shopping.
 Visit Shibuya Sky Observatory (book sunset slot 1 month ahead).
 
-Day 6 – Wed Apr 23 — Tokyo → Kyoto
+Day 6 – Thu Apr 23 — Tokyo → Kyoto
 Take the Shinkansen (Nozomi has the mt. fuji views) or (Hikari) ~2.5 hrs.
 Check into ryokan:
 Dinner Starts at 6:00 or 6:30 PM at Momijiya Honkan Takao Sansou Mountain Villa Ryokan
@@ -48,36 +48,36 @@ Hotel suggestion: Gion area (beautiful evenings) or Kyoto Station area (convenie
 Gion district stroll — traditional streets and possible geisha sightings.
 Dinner along Pontocho Alley (riverside dining).
 
-Day 7 – Thu Apr 24 — Eastern Kyoto
+Day 7 – Fri Apr 24 — Eastern Kyoto
 Morning: Take bus to Kyoto Hotel (~1hr)
 Kiyomizu-dera Temple (hilltop views).
 Sannenzaka & Ninenzaka (preserved streets).
 Yasaka Pagoda & Maruyama Park, or SAMURAI NINJA MUSEUM Kyoto
 Evening: Gion or Nishiki Market food stalls.
 
-Day 8 – Fri Apr 25 — Western Kyoto (Arashiyama)
+Day 8 – Sat Apr 25 — Western Kyoto (Arashiyama)
 Morning: Arashiyama Bamboo Grove, Togetsukyo Bridge.
 Tenryu-ji Temple & gardens.
 Optional: Monkey Park Iwatayama.
 Afternoon: Golden Pavilion (Kinkaku-ji).
 
-Day 9 – Sat Apr 26 — Day Trip: Nara
+Day 9 – Sun Apr 26 — Day Trip: Nara
 Todaiji Temple (Great Buddha)
 Nara Deer Park.
 Kasuga Taisha Shrine.
 Return to Kyoto for dinner (e.g., Kyoto Yakiniku Hiro).
 
-Day 10 – Sun Apr 27 — Southern Kyoto
+Day 10 – Mon Apr 27 — Southern Kyoto
 Fushimi Inari Taisha (iconic red torii gates, go early AM).
 Nishiki Market (street food, local snacks).
 Optional: Tea ceremony or Sake tasting in Fushimi district.
 
-Day 11 – Mon Apr 28 — Osaka Day Trip (optional)
+Day 11 – Tue Apr 28 — Osaka Day Trip (optional)
 30–45 min train from Kyoto.
 Fish market or food stuff, Dotonbori food crawl, Shinsekai retro streets.
 Return to Kyoto in evening.
 
-Day 12 – Tue Apr 29 — Kyoto → Hamamatsu(coastal city in between) → Tokyo
+Day 12 – Wed Apr 29 — Kyoto → Hamamatsu(coastal city in between) → Tokyo
 Take Shinkansen to Hamamatsu(1.15hr)
 Hamamatsu Flower Park and Museum?
 Evening:
@@ -85,7 +85,7 @@ Eel restaurant!
 Make our way to final tokyo/Shinjuku hotel
 Shibuya Tokyu REI Hotel
 
-🏙 Day 13 – Wed Apr 30 — Final Tokyo Day
+🏙 Day 13 – Thu Apr 30 — Final Tokyo Day
 Shoppin!
 
 🧭 Suggested shopping route (single day)
@@ -103,7 +103,7 @@ Grab snacks or quick gifts for airport
 Optional:
 Nakano Broadway if you want rare figures (may need 1–2 hrs)
 
-✈️ Day 14 – Thu May 1 — Departure
+✈️ Day 14 – Fri May 1 — Departure
 Flight from Haneda leaves at 4:05PM, so get to airport at least by 1pm or 2pm
 Easy transfer to Haneda Airport via Keikyu Line, Monorail, or Limousine Bus.
 Aim to arrive 2.5–3 hours before flight.
