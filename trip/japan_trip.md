@@ -121,10 +121,13 @@ DONE 🏨 Hotels 6–9 months ahead Shibuya/Shinjuku (Tokyo start), Gion/Kyoto S
 🏙 Shibuya Sky 3–4 weeks ahead Sunset slots sell out fast.
 
 18-23 Tokyo Hotel Sunroute Plaza Shinjuku, Sotetsu Hotel
+
 23-24 Kyoto onsen, MomidiJia Bookin confirmation, Richmond Hotel
+
 24-29 Kyoto Hotel Richmond Hotel Premier Kyoto Ekimae, Richmond Hotel
 about $2000
-FINAL 29-30 day in Tokyo needed!
+
+Apr 29th - May 1st, Shibuya Tokyo REI Hotel
 
 🚄 Your Shinkansen Needs (3 rides)
 Date Route Goal
