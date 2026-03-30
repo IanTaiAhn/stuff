@@ -83,6 +83,8 @@ Return to Kyoto in evening.
 Day 12 – Wed Apr 29 — Kyoto → Hamamatsu(coastal city in between) → Tokyo
 Take Shinkansen to Hamamatsu(1.15hr)
 Hamamatsu Flower Park and Museum?
+Hamamatsu Music Instrument Museum?
+Nakatajima Sand Dunes (Nakatajima Sakyu)
 Evening:
 Eel restaurant!
 Make our way to final tokyo/Shinjuku hotel
