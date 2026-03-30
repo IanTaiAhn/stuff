@@ -75,7 +75,7 @@ Fushimi Inari Taisha (iconic red torii gates, go early AM).
 Nishiki Market (street food, local snacks).
 Optional: Tea ceremony or Sake tasting in Fushimi district.
 
-Day 11 – Tue Apr 28 — Osaka Day Trip (optional)
+Day 11 – Tue Apr 28 — Osaka Day Trip (optional) (Swap this day with the 27th for early bullet train ride to Hamamatsu.)
 30–45 min train from Kyoto.
 Fish market or food stuff, Dotonbori food crawl, Shinsekai retro streets.
 Return to Kyoto in evening.
