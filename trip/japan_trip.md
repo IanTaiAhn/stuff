@@ -37,6 +37,9 @@ Visit Shibuya Sky Observatory (book sunset slot 1 month ahead).
 
 Day 6 – Thu Apr 23 — Tokyo → Kyoto
 Take the Shinkansen (Nozomi has the mt. fuji views) or (Hikari) ~2.5 hrs.
+From Tokyo Shinagawa station to Kyoto Station
+Book for 10:45 AM.~4hr trip and ryokan check in
+is 3:00pm
 Check into ryokan:
 Dinner Starts at 6:00 or 6:30 PM at Momijiya Honkan Takao Sansou Mountain Villa Ryokan
 Evening:
@@ -72,7 +75,7 @@ Fushimi Inari Taisha (iconic red torii gates, go early AM).
 Nishiki Market (street food, local snacks).
 Optional: Tea ceremony or Sake tasting in Fushimi district.
 
-Day 11 – Tue Apr 28 — Osaka Day Trip (optional)
+Day 11 – Tue Apr 28 — Osaka Day Trip (optional) (Swap this day with the 27th for early bullet train ride to Hamamatsu.)
 30–45 min train from Kyoto.
 Fish market or food stuff, Dotonbori food crawl, Shinsekai retro streets.
 Return to Kyoto in evening.
@@ -80,9 +83,13 @@ Return to Kyoto in evening.
 Day 12 – Wed Apr 29 — Kyoto → Hamamatsu(coastal city in between) → Tokyo
 Take Shinkansen to Hamamatsu(1.15hr)
 Hamamatsu Flower Park and Museum?
+Hamamatsu Music Instrument Museum? *CLOSED
+Yamaha INNOVATION ROAD Corporate Museum DO this instead since it is open on 4th wednesdays
+Nakatajima Sand Dunes (Nakatajima Sakyu)
 Evening:
 Eel restaurant!
 Make our way to final tokyo/Shinjuku hotel
+
 Shibuya Tokyu REI Hotel
 
 🏙 Day 13 – Thu Apr 30 — Final Tokyo Day
@@ -132,11 +139,13 @@ Apr 29th - May 1st, Shibuya Tokyo REI Hotel
 🚄 Your Shinkansen Needs (3 rides)
 Date Route Goal
 Wed Apr 23 Tokyo → Kyoto Mt. Fuji views
-Tue Apr 29 Kyoto → Tokyo Mt. Fuji views + Golden Week crowd strategy
+Tue Apr 29 Kyoto → Hamamatsu Mt. Fuji views + Golden Week crowd strategy
+Apr 29 Hamamatsu → Tokyo
 Mt. Fuji views are only possible on the Tokaido Shinkansen section Tokyo ⇄ Shin-Fuji ⇄ Nagoya.
 ✅ Seat E (right side) every time
 ✅ Nozomi trains
 ✅ Morning departures
+
 
 Visit Japan Web QR code website:
 https://www.vjw.digital.go.jp/
