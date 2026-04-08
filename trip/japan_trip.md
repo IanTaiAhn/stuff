@@ -76,7 +76,13 @@ Return to Kyoto for dinner (e.g., Kyoto Yakiniku Hiro).
 
 Day 10 – Mon Apr 27 — Osaka Day Trip
 30–45 min train from Kyoto.
-Fish market or food stuff, Dotonbori food crawl, Shinsekai retro streets.
+Food Day!
+Morning — Kuromon Market (arrive ~10am)
+A great way to start is with a morning at Kuromon Market Japan Starts Here — it's Osaka's kitchen. Fresh seafood skewers, grilled scallops, tamagoyaki, melons. Graze your way through, don't eat a full "meal." Save room.
+Late Morning — Dotonbori
+Walk the canal, take the obligatory Glico Running Man photo. Takoyaki (octopus balls), okonomiyaki (savory pancakes), and kushikatsu (deep-fried skewers) are the local must-tries, all eaten with tangy sauces. MICHELIN Guide Get takoyaki here — the real stuff. This is where you do it.
+Afternoon — Shinsekai
+You'll have more time to spread out and enjoy street food not only along Dotonbori canal, but also in the colorful Shinsekai district. Japan Starts Here Shinsekai is retro, gritty, old Osaka — completely different vibe from anything else on your trip. Kushikatsu is king here. There's also the Tsutenkaku Tower if you want a quick photo op.
 Return to Kyoto in evening.
 
 Day 11 – Tue Apr 28 — Southern Kyoto
