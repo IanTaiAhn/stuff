@@ -143,9 +143,11 @@ Hotel Total: $2270
 
 Meals/transit(not including shinkansen): $3600 for us both
 
-Total so far: $5900.
+Total required spending so far: $5900.
 
-$1100 from HYSA, 1100 from checkings, 4000 from end of may after paying recurring(bills, mortage, loans, investments).
+### Buffer:
+$1100 from HYSA, 1100 from checkings, 3000 at end of may after paying recurring(bills, mortage, loans, investments) for MAY.
+## Air on safe side spend around $1500-$2000 
 
 🚄 Your Shinkansen Needs (3 rides)
 Date Route Goal
