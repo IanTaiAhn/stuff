@@ -140,6 +140,9 @@ DONE 🏨 Hotels 6–9 months ahead Shibuya/Shinjuku (Tokyo start), Gion/Kyoto S
 Apr 29th - May 1st, Shibuya Tokyo REI Hotel
 
 Hotel Total: $2270
+Meals/transit(not including shinkansen): $3600 for us both
+Total so far: $5900.
+$1100 buffer from HYSA it seems.
 
 🚄 Your Shinkansen Needs (3 rides)
 Date Route Goal
