@@ -60,7 +60,7 @@ Morning: Take bus to Kyoto Hotel (~1hr)
 Kiyomizu-dera Temple (hilltop views).
 Sannenzaka & Ninenzaka (preserved streets).
 Yasaka Pagoda & Maruyama Park, or SAMURAI NINJA MUSEUM Kyoto
-Evening: Gion or Nishiki Market food stalls.
+Evening: Gion or Nishiki Market food stalls. (Nishiki Markeet Food Stalls porbably will be done on Day 10, so perhaps just stick with Gion)
 
 Day 8 – Sat Apr 25 — Western Kyoto (Arashiyama)
 Morning: Arashiyama Bamboo Grove, Togetsukyo Bridge.
