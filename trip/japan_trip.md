@@ -42,8 +42,8 @@ Shinjuku Pit Inn at 7:00(playing at 7:30)
 Day 6 – Thu Apr 23 — Tokyo → Kyoto
 Take the Shinkansen (Nozomi has the mt. fuji views) or (Hikari) ~2.5 hrs.
 From Tokyo Shinagawa station to Kyoto Station
-Book for 10:45 AM.~4hr trip and ryokan check in
-is 3:00pm
+Booked for 10:55 AM, ~4hr trip and ryokan check in is 3:00pm
+
 Check into ryokan:
 Dinner Starts at 6:00 or 6:30 PM at Momijiya Honkan Takao Sansou Mountain Villa Ryokan
 Evening:
@@ -74,17 +74,17 @@ Nara Deer Park.
 Kasuga Taisha Shrine.
 Return to Kyoto for dinner (e.g., Kyoto Yakiniku Hiro).
 
-Day 10 – Mon Apr 27 — Southern Kyoto
-Fushimi Inari Taisha (iconic red torii gates, go early AM).
-Nishiki Market (street food, local snacks).
-Optional: Tea ceremony or Sake tasting in Fushimi district.
-
-Day 11 – Tue Apr 28 — Osaka Day Trip (optional) (Swap this day with the 27th for early bullet train ride to Hamamatsu.)
+Day 10 – Mon Apr 27 — Osaka Day Trip
 30–45 min train from Kyoto.
 Fish market or food stuff, Dotonbori food crawl, Shinsekai retro streets.
 Return to Kyoto in evening.
 
-Day 12 – Wed Apr 29 — Kyoto → Hamamatsu(coastal city in between) → Tokyo
+Day 11 – Tue Apr 28 — Southern Kyoto
+Fushimi Inari Taisha (iconic red torii gates, go early AM).
+Nishiki Market (street food, local snacks).
+Optional: Tea ceremony or Sake tasting in Fushimi district.
+
+Day 12 – Wed Apr 29 — Kyoto → Hamamatsu(coastal city in between) → Tokyo Earlier (9:07AM departer)
 Take Shinkansen to Hamamatsu(1.15hr)
 Hamamatsu Flower Park and Museum?
 Hamamatsu Music Instrument Museum? *CLOSED
@@ -92,7 +92,7 @@ Yamaha INNOVATION ROAD Corporate Museum DO this instead since it is open on 4th 
 Nakatajima Sand Dunes (Nakatajima Sakyu)
 Evening:
 Eel restaurant!
-Make our way to final tokyo/Shinjuku hotel
+Make our way to final tokyo/Shinjuku hotel, Hamatsu --> Shinagawa is 08:17PM, ~1.5hr
 
 Shibuya Tokyu REI Hotel
 
