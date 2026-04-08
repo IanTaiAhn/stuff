@@ -33,7 +33,11 @@ Sunshine City Mall (Pokémon Center Mega Tokyo, JUMP Shop, Capcom Store).
 Animate Ikebukuro Main Store.
 Afternoon:
 Return to Shibuya or Ginza for shopping.
-Visit Shibuya Sky Observatory (book sunset slot 1 month ahead).
+No Shibuya Sky, Instead omokase and then jazz club!
+Omokase at 5pm, at Shinjukugyioenmae Sushi Labo
+Walk from omokase to jazz club ~8mins
+Shinjuku Pit Inn at 7:00(playing at 7:30)
+
 
 Day 6 – Thu Apr 23 — Tokyo → Kyoto
 Take the Shinkansen (Nozomi has the mt. fuji views) or (Hikari) ~2.5 hrs.
