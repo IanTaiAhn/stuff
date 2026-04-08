@@ -114,6 +114,11 @@ Grab snacks or quick gifts for airport
 Optional:
 Nakano Broadway if you want rare figures (may need 1–2 hrs)
 
+Perhaps we do some of these thrift stores as well?
+- Shimokitazawa — just seven minutes from Shinjuku by train, this area has a bohemian vibe with a broad array of vintage shops ranging from large outlets with wide selections and low prices to tiny alleyway boutiques offering fashions hard to find anywhere else. Official Tokyo Travel Guide It's widely considered the thrift capital of Tokyo. There's even a weekend flea market there that draws around 10,000 visitors per session Official Tokyo Travel Guide.
+- Koenji — a local favorite for vintage and upcycled fashion, just a few train stops from Shinjuku. Compared to Shimokitazawa, it has a grittier, more grown-up vibe with fewer tourists. MICHELIN Guide Great for unbeatable prices on standout pieces.
+- Harajuku — one of the best-known thrifting districts in Tokyo, with stores leaning toward streetwear and trendy vintage. Alex Lau Chains like Chicago and Bazzstore are popular.
+
 ✈️ Day 14 – Fri May 1 — Departure
 Flight from Haneda leaves at 4:05PM, so get to airport at least by 1pm or 2pm
 Easy transfer to Haneda Airport via Keikyu Line, Monorail, or Limousine Bus.
