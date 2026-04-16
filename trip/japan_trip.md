@@ -4,6 +4,16 @@ Take Limousine Bus or Keikyu/Monorail → Shibuya/Shinjuku hotel.(Purchase at ai
 Light evening stroll:
 Shibuya Crossing, Hachiko statue.
 Dinner at Omoide Yokocho (tiny alley izakayas) or Nonbei Yokocho.
+Food Suggestions:
+Evening
+Omoide Yokocho — tiny smoky yakitori stalls in Shinjuku. Order kawa (chicken skin) and liver skewers with cold draft beer.
+Go right as you arrive — wait times grow fast after 7pm.
+
+Alternative
+Nonbei Yokocho nearby for a slightly less touristy izakaya vibe. Try edamame, karaage, and cold Sapporo.
+
+Late night
+Convenience store onigiri from Lawson or FamilyMart — an iconic experience in itself. Look for tuna-mayo or mentaiko (spicy cod roe) flavors.
 
 Day 2 – Sun Apr 19 — Harajuku + Akihabara
 Morning: Harajuku & Omotesando
