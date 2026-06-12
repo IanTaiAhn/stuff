@@ -440,7 +440,7 @@ Hierarchical Condition Categories (HCCs) are CMS's system for predicting a Medic
 **Prior Authorization**
 A payer's requirement that a provider get approval *before* delivering certain services or medications. Denials happen when the service isn't covered, documentation is insufficient, or a cheaper alternative wasn't tried first. An **LCD** (Local Coverage Determination) is a Medicare contractor's decision about whether a specific service is covered in a geographic area.
 
-**HIPAA / PHI**
+**HIPAA (Health Insurance Portability) and Accountability Act/ PHI (Protected Health Information)**
 - **PHI** (Protected Health Information) — any health information linked to an individual
 - The **18 identifiers** that make data PHI include: name, address, dates (birth, death, admission), phone, SSN, MRN, and more
 - **De-identification methods**: Safe Harbor (remove all 18 identifiers) vs. Expert Determination (a statistician certifies the re-identification risk is very small)
@@ -454,8 +454,8 @@ HIPAA-standard electronic transaction formats:
 A set of standardized performance measures developed by NCQA that payers use to evaluate quality of care. Examples: mammography rates, blood sugar control in diabetics, medication adherence. Payers are publicly rated on HEDIS scores, which affects Star Ratings and revenue.
 
 **HL7 v2 vs. FHIR**
-- **HL7 v2** — a legacy pipe-delimited message format from the 1980s–90s. Widely deployed but brittle, inconsistently implemented, and hard to parse.
-- **FHIR** — modern, REST-based, JSON/XML, with well-defined resource schemas and a public API standard. The industry is migrating because FHIR is interoperable across systems, developer-friendly, and mandated by CMS regulations (21st Century Cures Act).
+- **HL7 v2** — (Health Level Seven) a legacy pipe-delimited message format from the 1980s–90s. Widely deployed but brittle, inconsistently implemented, and hard to parse.
+- **FHIR** — (Fast Healthcare Interoperability Resources) modern, REST-based, JSON/XML, with well-defined resource schemas and a public API standard. The industry is migrating because FHIR is interoperable across systems, developer-friendly, and mandated by CMS regulations (21st Century Cures Act).
 
 ---
 
