@@ -82,13 +82,19 @@ Month 4: HEDIS Measure Engine (extends dbt models from Project 1)
 Month 5: Clinical NLP ICD-10 coder (extends your existing Prior Auth project)
 Month 6: SMART on FHIR app or EDI parser depending on which companies you're targeting most
 
-🥇Health CatalystLocal HQ, exact domain match, dbt/Snowflake stack
-🥈WaystarLocal, revenue cycle = your prior auth background
-🥉Intermountain HealthLocal, massive data org, stable
-4RecursionAI/ML ceiling is exceptional, SLC HQ
-5Innovaccer (remote)FHIR-first, population health, fast growth
-6Myriad GeneticsLocal, precision medicine, strong pay
-7U of U HealthStable, clinical data depth, familiar environment
+### 🥇Health CatalystLocal HQ, exact domain match, dbt/Snowflake stack
+### 🥈WaystarLocal, revenue cycle = your prior auth background
+### 🥉Intermountain HealthLocal, massive data org, stable
+### 4 RecursionAI/ML ceiling is exceptional, SLC HQ
+### 5 Innovaccer (remote)FHIR-first, population health, fast growth
+### 6 Myriad GeneticsLocal, precision medicine, strong pay
+### 7 U of U HealthStable, clinical data depth, familiar environment
+
+### Another Query for good candidates:
+#### 1. Cohere Health — still your best bet on relevance; just go in aware of on-call/leveling concerns at the senior IC tier.
+#### 2. Health Catalyst — strong people/culture, but ask pointed questions about team stability and recent layoffs before/during interviews.
+#### 3. Humata Health / SuperDial — both plausible, but too little data to have a strong opinion; you'd be doing first-hand discovery here.
+#### 4. Arcadia — move this down; the engineering-specific signals are the weakest of the group.
 
 ## Interview Prep for Data Engineering and adjacent AI/ML stuff
 What You Need to Know Cold
