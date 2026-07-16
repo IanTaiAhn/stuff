@@ -31,7 +31,13 @@ Every one of these companies touches large, messy datasets (claims, EHR, DoD big
 - Given a claims/encounters table, calculate a rolling 7- or 30-day metric
 - Median without `MEDIAN`/`PERCENTILE`
 
-**Your specific proof point:** your F-35 OBPHM bullet mentions "transforming multi-table relational data across regression cycles" — that *is* SQL/relational work. Be ready to describe the actual joins/aggregations you did there in technical detail; right now it's phrased generically enough that an interviewer may probe it as a bluff-check.
+**Helpful Tips**
+#### When you read a prompt, pause before writing SQL and ask:
+- What is the final output table? (Columns and rows.)
+- What columns do I wish I already had? (Those often become CTEs or window-function outputs.)
+- Which SQL pattern creates those columns?
+- How do I filter or aggregate to get the final result?
+ **Your specific proof point:** your F-35 OBPHM bullet mentions "transforming multi-table relational data across regression cycles" — that *is* SQL/relational work. Be ready to describe the actual joins/aggregations you did there in technical detail; right now it's phrased generically enough that an interviewer may probe it as a bluff-check.
 
 ---
 
