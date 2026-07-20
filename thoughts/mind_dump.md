@@ -15,3 +15,5 @@ and become the only one that needs to work so that I may grow a family.
 From this thought stems vain wants. I want a new car since I can't drive far in mine of fear of breaking down. I want to make enough so that my wife can work part time,
 and not have to worry about cash. I want us to be able to go out every couple of days and order whatever we want. I want to have every other month mini vacations, and have one big vacation.
 I want to be financially free to enjoy life and still have purpose in building useful things.
+
+Found a better way to utilize my clearance
