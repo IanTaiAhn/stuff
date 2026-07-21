@@ -17,3 +17,5 @@ and not have to worry about cash. I want us to be able to go out every couple of
 I want to be financially free to enjoy life and still have purpose in building useful things.
 
 Found a better way to utilize my clearance
+
+Heck yah
