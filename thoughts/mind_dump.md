@@ -19,3 +19,5 @@ I want to be financially free to enjoy life and still have purpose in building u
 Found a better way to utilize my clearance
 
 Heck yah
+
+Studied
