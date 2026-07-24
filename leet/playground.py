@@ -13,52 +13,60 @@
 
 class Node:
     def __init__(self, key, value):
-        self.key = key
+        self.key = key      # we store the key too — you'll see why in eviction
         self.value = value
         self.prev = None
         self.next = None
 
 class LRUCache:
-    def __init__(self, capacity: int) # controlling capacity to be an int.
+    def __init__(self, capacity: int):
         self.capacity = capacity
-        self.cache = {}
+        self.cache = {}  # key -> Node, gives us O(1) lookup
 
-        self.head = Node(0,0)
-        self.tail = Node(0,0)
+        # Dummy head/tail sentinel nodes — this avoids messy None-checks
+        # when inserting/removing at the boundaries
+        self.head = Node(0, 0)  # most-recently-used side
+        self.tail = Node(0, 0)  # least-recently-used side
         self.head.next = self.tail
         self.tail.prev = self.head
 
     def _remove(self, node):
+        # Unlink node from wherever it currently sits — O(1)
         node.prev.next = node.next
         node.next.prev = node.prev
 
-    # I'll call this within my get...
     def _insert_at_front(self, node):
+        # Always insert right after head = most recently used position
         node.next = self.head.next
         node.prev = self.head
         self.head.next.prev = node
         self.head.next = node
 
-    def _get(self, key):
+    def get(self, key: int) -> int:
         if key not in self.cache:
-            return-1
-        node = self.cache(key)
+            return -1
+        node = self.cache[key]
         self._remove(node)
-        self._insert_at_front(node)
+        self._insert_at_front(node)  # accessing it = it's now most recently used
         return node.value
 
-    def _put(self, key, value):
+    def put(self, key: int, value: int) -> None:
         if key in self.cache:
-            node = self.cache(key)
+            # Update existing node's value and bump its recency
+            node = self.cache[key]
             node.value = value
             self._remove(node)
             self._insert_at_front(node)
             return
+
         if len(self.cache) >= self.capacity:
+            # Evict least recently used = node just before tail sentinel
             lru_node = self.tail.prev
             self._remove(lru_node)
-            del self.cache[lru_node.key]
+            del self.cache[lru_node.key]  # <-- this is why Node stores `key`
+
         new_node = Node(key, value)
+        self.cache[key] = new_node
         self._insert_at_front(new_node)
 
 
