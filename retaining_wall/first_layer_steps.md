@@ -3,6 +3,7 @@
 Six steps, in order, with the actual measurements for your 24–30" wall.
 
 Line the entirety of the hollowed out dirt rectangle. Look at the image in this folder for more clarification.
+Do this in long strips, parallel with the stairs overlapping 12" inches or probably 10-11 pieces total.
 
 ## 1. Excavate & Line the Trench
 
