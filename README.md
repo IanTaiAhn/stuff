@@ -575,3 +575,7 @@ The overlap is implementation detail, not product intent.
 - That framing is defensible, accurate, and compelling.
 
 I did it. Well done man.
+Worlds Models,
+Digital Threads,
+Cuda Arch
+AI infrastructure
